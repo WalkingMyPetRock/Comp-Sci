@@ -1,0 +1,6 @@
+room_number = int(113)
+deci = float(2.71828)
+Period = str("computer_science")
+print(f"This is room #{room_number}")
+print(f"E is close to {deci}")
+print(f"I am learning about {Period}")
